@@ -13,3 +13,7 @@ I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">
         <img src="http://www.100pies.net/Gifs/Webmasters/Banners/Banner-14.gif" width="700" >
     </p>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=juananrj&show_icons=true&theme=yeblu" alt="juananrj"/>
+</p>
