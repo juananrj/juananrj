@@ -41,6 +41,7 @@ I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">
         </tr>
         <tr>
             <td align="center">Secure Application Development</td>
+            <td align="center"></td>
             <td align="center">Spanish ★★★ <br/> (Mother Language)</td>
             <td align="center">R Programming</td>
         </tr>
