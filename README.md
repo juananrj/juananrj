@@ -21,9 +21,7 @@ I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">
 
 
 <h2 align="center">
-<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40" style="vertical-align:middle">
     <span><ins>BIO</ins></span>
-<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40" style="vertical-align:middle">
 </h2>
 
 <table>
