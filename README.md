@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Привет | Hola | Hi | Hallo</h1>
 
-<!--
-**juananrj/juananrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">Juananrj</a>, an IT student interested in informatics and IOT
+</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=juananrj" alt="juananrj"/><a href="https://github.com/juananrj/juananrj/pulse" alt="Activity">
+<img src="https://img.shields.io/github/commit-activity/m/juananrj/juananrj"/></a>
+<a href="https://github.com/juananrj?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/juananrj?color=4C1&logo=github"></a>
+<a href="https://github.com/juananrj/juananrj" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Onededios/Onededios?label=Profile%20update&style=fflat-square"></a>
+    <p align="center">
+        <img src="http://www.100pies.net/Gifs/Webmasters/Banners/Banner-14.gif" width="700" >
+    </p>
+</p>
