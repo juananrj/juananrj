@@ -21,7 +21,7 @@ I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">
 
 
 <h2 align="center">
-    <span><ins>BIO</ins></span>
+    <span>BIO</span>
 </h2>
 
 <table>
