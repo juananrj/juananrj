@@ -17,3 +17,44 @@ I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=juananrj&show_icons=true&theme=yeblu" alt="juananrj"/>
 </p>
+
+
+<h2 align="center">
+<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40" style="vertical-align:middle">
+    <span><ins>BIO</ins></span>
+<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40" style="vertical-align:middle">
+</h2>
+
+<table>
+    <tr>
+        <th align="center"><ins>Currently studying</ins></th>
+        <th align="center"><ins>Graded in</ins></th>
+        <th align="center"><ins>Languages</ins></th>
+        <th align="center"><ins>Also Learning</ins></th>    
+    </tr>
+    <tr>
+        <tr>
+            <td align="center">Cross-platform Application Development</td>
+            <td align="center">Microcomputer Systems and Networks</td>
+            <td align="center">English ★☆☆ <br/> (B1 Cambridge)</td>
+            <td align="center">IOT Devices & Automation</td>
+        </tr>
+        <tr>
+            <td align="center">Secure Application Development</td>
+            <td align="center">Spanish ★★★ <br/> (Mother Language)</td>
+            <td align="center">R Programming</td>
+        </tr>
+        <tr>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center">Catalan ★★★ <br/> (Mother Language)</td>
+            <td align="center">Statistics</td>
+        </tr>
+    </tr>
+</table>
+
+<h2 align="center">
+<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/statistics.png" width="40" style="vertical-align:middle">
+    <span><ins>WakaTime Charts</ins></span>
+<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/statistics.png" width="40" style="vertical-align:middle">
+</h2>
