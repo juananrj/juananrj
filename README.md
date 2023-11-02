@@ -16,8 +16,7 @@ I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=juananrj&show_icons=true&theme=dark" alt="juananrj"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juananrj&langs_count=6&theme=dark&locale=es&count_private=true&show_icons=true&layout=compact)
-
+<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=juananrj&langs_count=6&theme=dark&locale=es&count_private=true&show_icons=true&layout=compact" alt="juananrj"/>
 </p>
 
 
