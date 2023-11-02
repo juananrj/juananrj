@@ -8,7 +8,7 @@ I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=juananrj" alt="juananrj"/><a href="https://github.com/juananrj/juananrj/pulse" alt="Activity">
 <img src="https://img.shields.io/github/commit-activity/m/juananrj/juananrj"/></a>
 <a href="https://github.com/juananrj?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/juananrj?color=4C1&logo=github"></a>
-<a href="https://github.com/juananrj/juananrj" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Onededios/Onededios?label=Profile%20update&style=fflat-square"></a>
+<a href="https://github.com/juananrj/juananrj" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/juananrj/juananrj?label=Profile%20update&style=fflat-square"></a>
     <p align="center">
         <img src="http://www.100pies.net/Gifs/Webmasters/Banners/Banner-14.gif" width="700" >
     </p>
@@ -67,10 +67,10 @@ I'm Juan Antonio Rojas or <a href="https://github.com/juananrj" target="_blank">
     </tr>
     <tr>
         <td>
-            <img src="https://wakatime.com/share/@Onededios/af3e6290-b6d5-41ec-ac7b-26badca936c3.svg" width="500">
+            <img src="https://wakatime.com/share/@juananrj/af3e6290-b6d5-41ec-ac7b-26badca936c3.svg" width="500">
         </td>
         <td>
-            <img src="https://wakatime.com/share/@Onededios/a18436d3-9347-4309-a342-3e5f3fef689c.svg" width="500">
+            <img src="https://wakatime.com/share/@juananrj/a18436d3-9347-4309-a342-3e5f3fef689c.svg" width="500">
         </td>
     </tr>
 </table>
